@@ -4,5 +4,5 @@ Web Application for Cake Shop
 ##  Cake Categories
 - SIGNATURE Cakes
 - PRINT Cakes
-- Cupcakes & Cake Jars
 - NOVELTY Cakes
+- Cupcakes & Cake Jars
